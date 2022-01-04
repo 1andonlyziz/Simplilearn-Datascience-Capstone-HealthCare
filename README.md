@@ -1,7 +1,7 @@
 ## Introduction
 
 This capstons project was assigned by Simplilearn as a success criteria for Datascience path.
-I was given medical dataset to determine whether patients has diabetes or not based on patients medical biometrics by creating a classification model using Python,Additionaly creating Tableu Dashboard.
+I was given medical dataset to determine whether a patient has diabetes or not based on patients medical biometrics by creating a classification model using Python,Additionaly creating Tableu Dashboard.
 Highest model score was 78% using Logistec Regression Algorithem, Z-Score and replacing missing data represnted by zeroes with class mean
 
 ## Problem Statement
